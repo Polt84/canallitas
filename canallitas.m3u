@@ -195,7 +195,7 @@ http://sharkytv.com:2082/ramadan12/ramadan21/136040
 http://sharkytv.com:2082/ramadan12/ramadan21/207092
 #EXTINF:-1 tvg-id="" tvg-name="➤ Films" tvg-logo="http://myserveriptv.com:2082/images/cf23addc4cc2130a6e9341531f90719f.png" group-title="Spain",➤ Films
 http://sharkytv.com:2082/ramadan12/ramadan21/225742
-#EXTINF:-1 tvg-id="" tvg-name="ES: #0" tvg-logo="http://myserveriptv.com:2082/images/d3d9446802a44259755d38e6d163e820.png" group-title="Spain",ES: #0
+#EXTINF:-1 tvg-id="" tvg-name="ES: #0" tvg-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/development/IPTV/MoviStar%2B/%230.png" group-title="Spain",ES: #0
 http://sharkytv.com:2082/ramadan12/ramadan21/136051
 #EXTINF:-1 tvg-id="" tvg-name="ES: Clan" tvg-logo="http://myserveriptv.com:2082/images/eebb237021a762fb2b8af4532c8d8d20.png" group-title="Spain",ES: Clan
 http://sharkytv.com:2082/ramadan12/ramadan21/136093
