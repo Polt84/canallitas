@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="ES: #VAMOS" tvg-logo="http://myserveriptv.com:2082/images/61744f262707dd9085f1cc556c0f108b.png" group-title="Spain",ES: #VAMOS
+#EXTINF:-1 tvg-id="" tvg-name="ES: #VAMOS" tvg-logo="https://raw.githubusercontent.com/Polt84/canallitas/main/vamos.jpg" group-title="Spain",ES: #VAMOS
 http://sharkytv.com:2082/ramadan12/ramadan21/160491
 #EXTINF:-1 tvg-id="" tvg-name="[ES] M. ESTRENOS HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.ESTRENOS.png" group-title="SPAIN",[ES] M. ESTRENOS HD
 http://176.57.50.167:25461/557496/064121/85896
