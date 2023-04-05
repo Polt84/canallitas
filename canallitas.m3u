@@ -1,7 +1,4 @@
 #EXTM3U 
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-
-#EXTINF:-1 tvg-id="" tvg-name="---●★| TDT SPAIN  |★●---" tvg-logo="http://51.15.10.117/logos/drapeau/espagne-512-512.png" group-title="|ES| TELEVISION TDT SPAIN",---●★| TDT SPAIN  |★●---
 http://nadtv.xyz:80/live/E4UzT86xNq/rt2SOSb3B7/62135.ts?play_token=0woWWoetpj:1679720912:70442
 #EXTINF:-1 tvg-id="la1.es" tvg-name="|ES| LA 1 SD" tvg-logo="http://51.15.10.117/logos/picon/la1.png" group-title="|ES| TELEVISION TDT SPAIN",|ES| LA 1 SD
 http://nadtv.xyz:80/live/E4UzT86xNq/rt2SOSb3B7/52215.ts?play_token=0woWWoetpj:1679720912:70442
